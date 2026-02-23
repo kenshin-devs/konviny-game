@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[832],{8832:(e,s,r)=>{r.r(s),r.d(s,{TetrisPlayScreen:()=>a.C});var a=r(2449)}}]);
